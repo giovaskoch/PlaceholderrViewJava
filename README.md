@@ -6,6 +6,9 @@
 [![Download 2.x](https://api.bintray.com/packages/janishar/mindorks/placeholderview-2/images/download.svg) ](https://bintray.com/janishar/mindorks/placeholderview-2/_latestVersion)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+# Important information
+The original library is [![here]](https://github.com/janishar/PlaceHolderView)
+
 # Some Implementations
 ![](https://janishar.github.io/gifs/vid_tinder.gif)  ![](https://janishar.github.io/gifs/feed_vid.gif)  ![](https://janishar.github.io/gifs/vid_slides.gif)  ![](https://janishar.github.io/gifs/vid_tinder_v2.gif)  ![](https://janishar.github.io/gifs/vid_drawer.gif)  ![](https://janishar.github.io/gifs/infinite_vid.gif)    
 
@@ -19,11 +22,6 @@ You can find the PlaceHolderView documentation [here](https://janishar.github.io
 # About PlaceHolderView
 Some of the views in PlaceHolderView library is build on top of RecyclerView and rest are written in its own.
 
-# About The Author
-You can connect with me here:
-* [Janishar Ali](https://janisharali.com)
-* [Twitter](https://twitter.com/janisharali)
-* [YouTube Channel](https://www.youtube.com/@unusualcode)
 
 **All the annotations are processed during build time to generate the binding classes**
 
